@@ -1,0 +1,24 @@
+web 1.0: 
+During the early days of web, web pages were static with no interactivity and limited design capabilities
+Each requests required full page reload. Pages containing mostly text and images using HTML for structure, 
+and maybe some CSS for limited styling. The use of JavaScript for dynamic updates was still in its early stage.
+
+
+
+web 2.0: 
+Within a decade of its debut, web was revolutionized with user interactivity. Usage of templates offered
+consistent design across web pages. Storage, retrieval and manipulation of data using databases familiarized
+the concept of Backend development. As a result, frameworks like Django for Python, Laravel for PHP, started
+to gain popularity. Backend Development involves managing databases, either using SQL 
+(like MySQL and PostgreSQL) or NoSQL (like MongoDB and CouchDB). Although pages still required a reload for
+each action, introduction to AJAX (Asynchronous JavaScript and XML) allowed partial updates to a page
+without a full reload.
+
+
+web 3.0:
+The 2010s saw a surge in the popularity of frontend frameworks such as React, Vue.js, and Angular,
+enabling component-based development. Blockchain technology emerged as a cornerstone for decentralization
+ensuring data security and privacy, AI integration enhanced user interactions with effective responses.
+This era also marked rise of Single Page Applications(SPAs) which dont require full page reloads.
+
+
