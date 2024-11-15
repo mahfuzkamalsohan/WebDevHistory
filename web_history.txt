@@ -1,6 +1,6 @@
 web 1.0: 
-During the early days of web, web pages were static with no interactivity and limited design capabilities
-Each requests required full page reload. Pages containing mostly text and images using HTML for structure, 
+During the early days of web, web pages were static with no interactivity and limited design capabilities.
+Each requests required full page reload. Pages contained mostly text and images using HTML for structure, 
 and maybe some CSS for limited styling. The use of JavaScript for dynamic updates was still in its early stage.
 
 
@@ -18,7 +18,7 @@ without a full reload.
 web 3.0:
 The 2010s saw a surge in the popularity of frontend frameworks such as React, Vue.js, and Angular,
 enabling component-based development. Blockchain technology emerged as a cornerstone for decentralization
-ensuring data security and privacy, AI integration enhanced user interactions with effective responses.
+ensuring data security and privacy, and AI integration enhanced user interactions with effective responses.
 This era also marked rise of Single Page Applications(SPAs) which dont require full page reloads.
 
 
